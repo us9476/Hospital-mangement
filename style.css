@@ -1,0 +1,197 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+  }
+  .max-width{
+    max-width: 1300px;
+    padding: 0 80px;
+    margin: auto;
+  }
+  
+  /* navbar styling */
+  .navbar{
+    position: fixed;
+    width: 100%;
+    padding: 30px 0;
+    background-color: rgb(213,225,255);
+  }
+  .navbar .max-width{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  nav img{
+    width: 150px;
+  }
+  .navbar .logo a{
+    color: rgb(54,205,210);
+    font-size: 35px;
+    font_weight: 600;
+  }
+  .navbar .menu{
+    flex: 1;
+    text-align: right;
+  }
+  .navbar .menu li{
+    list-style: none;
+    display: inline-block;
+    position: relative;
+  }
+  .navbar .menu li a{
+    color: rgb(31,59,137);
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 25px;
+    transition: color 0,5s ease;
+  }
+  .navbar .menu li a:hover{
+    color: rgb(54,205,210)
+  }
+  
+  
+  /* home section styling */
+  .home{
+    display: flex;
+    background: url(https://uxstudioteam.com/website/wp-content/uploads/2021/12/Digital-Healthcare-UX-trends.jpg) no-repeat center;
+    background-position: right;
+    height: 100vh;
+    color: rgb(31,59,137);
+    min-height: 600px;
+  }
+  .home .max-width{
+    margin: auto 0 auto 40px;
+  }
+  .home .home-content .text-1{
+    font-size: 75px;
+    font-weight: 600;
+    margin-left: -3px;
+  }
+  .home .home-content .text-1 span{
+    color: rgb(54,205,210);
+  }
+  .home .home-content .text-2{
+    font-size: 27px;
+  }
+  .home .home-content .text-3{
+    font-size: 27px;
+    margin: 5px 0;
+  }
+  
+  /* departments section styling */
+  
+  .departments{
+    color: rgb(31,59,137);
+    background: rgb(213,225,255);
+    margin: 0;
+    padding:0;
+  }
+  .departments{
+    width: 100%;
+    height: 100vh;
+    min-height: 600px;
+    overflow: hidden;
+    display: flex;
+  }
+  .departments .departments-content{
+    padding: 0px;
+    margin: 0px;
+  }
+  .departments .departments-content .card{
+    list-style: none;
+    float: left;
+    width: 25%;
+    height: 200px;
+    background: rgb(186,205,255);
+    margin: 40px;
+    
+    text-align: center;
+    padding: 20px 25px;
+    overflow: hidden;
+  }
+  .departments .depatrments-content .card{
+    font-size: 50px;
+    color: rgb(31,59,173);
+  }
+  .departments .departments-content .card:hover{
+    background: rgb(54, 205,210);
+  }
+  .departments .departments-content .card .box{
+    transition: all 0,5s ease;
+  }
+  .departments .departments-content .card:hover .box{
+    transform: scale(1.05);
+  }
+  .departments .departments-content .text{
+    width: 100%;
+    height: 30px;
+  }
+  i{
+    padding: 10px;
+  }
+  
+  
+  /* appointment section styling */
+  
+  input[type=text], select, textarea{
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+  input[type=submit] {
+    background-color: rgb(186,205,255);
+    color: rgb(31,59,173);
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: poinet;
+  }
+  input[type=submit]:hover {
+    background-color: rgb(54, 205,210);
+  }
+  .container {
+    display: table-cell;
+    float: right;
+    color: rgb(31,59,137);
+    background: rgb (213,225,255);
+    width: 50%;
+    border-raius: 5px;
+    padding: 20px;
+    vertical-align: middle;
+    margin-top: 100px;
+  }
+
+  /*footer styling*/
+
+
+  footer{
+	background-color: #3b3b3b;
+	padding:30px 0;
+	margin-top: 100px;
+}
+footer :after{
+	content: "";
+	display:block;
+	clear: both;
+}
+
+footer ul{
+	float: left;
+	padding: 0;
+	list-style-type: none;
+	width: 23%;
+	margin-right: 2%;
+	color:#eee;
+}
+footer li{
+	margin: 10px 0;
+}
+  
+  
+  
