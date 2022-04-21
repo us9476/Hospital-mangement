@@ -19,11 +19,9 @@ Some of the measures taken while deploying the bot (Steps followed)
 2.depoying 
 
 
-
-
-
 ![photo1650530055](https://user-images.githubusercontent.com/72561824/164416372-6947d597-3711-49df-b38a-7f48445477af.jpeg)
-![photo1650530055 (2)](https://user-images.githubusercontent.com/72561824/164416373-542e32c5-b7c0-4348-84ed-a00ed4564b48.jpeg)
+3.Creating knowledge  base
 ![photo1650530055 (3)](https://user-images.githubusercontent.com/72561824/164416378-da80cbc8-3b4d-4666-a578-d34da84a5059.jpeg)
+4.testing  knowledge base
 ![photo1650530055 (4)](https://user-images.githubusercontent.com/72561824/164416381-961693bc-047c-4cfa-ba97-db2d316a84a5.jpeg)
-![photo1650530055 (1)](https://user-images.githubusercontent.com/72561824/164416383-10b7d024-511a-4eaf-8afa-c5584b189f08.jpeg)
+
