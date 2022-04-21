@@ -1,5 +1,5 @@
 # Hospital-mangement
-i have created a website with the help of html and css for the hospital 
+I have created a website with the help of html and css for the hospital 
 I HAVE USED AZURE QNA MAKER, AZURE BOT SERVICE AND DEPLOYED A CHAT  BOX IN A WEB PAGE.
 
 
