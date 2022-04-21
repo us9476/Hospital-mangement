@@ -6,7 +6,7 @@ I HAVE USED AZURE QNA MAKER, AZURE BOT SERVICE AND DEPLOYED A CHAT  BOX IN A WEB
 LINK OF AZURE BOT SERVICE USED IN THIS PROJECT https://azure.microsoft.com/en-in/services/bot-services/?&ef_id=Cj0KCQjwgYSTBhDKARIsAB8KuktJMkGKvpiBqOdhM55NGsS_mo0iQl0YYHFUTz_kLm9R7Sm_B0aZrEkaAo7REALw_wcB:G:s&OCID=AID2200195_SEM_Cj0KCQjwgYSTBhDKARIsAB8KuktJMkGKvpiBqOdhM55NGsS_mo0iQl0YYHFUTz_kLm9R7Sm_B0aZrEkaAo7REALw_wcB:G:s&gclid=Cj0KCQjwgYSTBhDKARIsAB8KuktJMkGKvpiBqOdhM55NGsS_mo0iQl0YYHFUTz_kLm9R7Sm_B0aZrEkaAo7REALw_wcB
 
 
-You can Test my project here(My website link) 
+You can Test my project here(My website link) :- https://us9476.github.io/Hospital-mangement/
 
 
 Some of the measures taken while deploying the bot (Steps followed)
