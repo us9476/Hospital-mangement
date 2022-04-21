@@ -24,4 +24,13 @@ Some of the measures taken while deploying the bot (Steps followed)
 ![photo1650530055 (3)](https://user-images.githubusercontent.com/72561824/164416378-da80cbc8-3b4d-4666-a578-d34da84a5059.jpeg)
 4.testing  knowledge base
 ![photo1650530055 (4)](https://user-images.githubusercontent.com/72561824/164416381-961693bc-047c-4cfa-ba97-db2d316a84a5.jpeg)
+5.Succesfully created anddeployed weeb Chat bot
+
+![photo1650530055 (5)](https://user-images.githubusercontent.com/72561824/164416819-b9563b85-bec1-42e2-b699-c5d52934b447.jpeg)
+
+
+
+
+
+
 
