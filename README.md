@@ -30,3 +30,5 @@ Some of the measures taken while deploying the bot (Steps followed)
 5.Successfully deployed  the  web chat  bot
 
 ![photo1650530055 (1)](https://user-images.githubusercontent.com/72561824/164416048-389884a9-9f5c-4f9c-934b-dc8b5117ea37.jpeg)
+
+
